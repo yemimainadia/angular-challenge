@@ -1,0 +1,16 @@
+.wrapper {
+  padding: 20px 30px;
+  background-color: lightgray;
+}
+.container-button {
+  max-width: 50%;
+  margin: 0 auto;
+  .btn {
+    float: right;
+    margin-bottom: 10px;
+  }
+}
+.mat-table {
+  width: 100%;
+  margin: 0 auto;
+}
